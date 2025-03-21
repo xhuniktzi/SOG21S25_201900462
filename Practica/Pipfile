@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 python-dotenv = "*"
+nbconvert = "*"
 
 [dev-packages]
 
